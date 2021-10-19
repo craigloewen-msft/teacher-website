@@ -19,7 +19,6 @@ jobs:
         node-version: 16.x
         cache: 'npm'
     - run: npm install
-    - run : |
-      git config --global user.name 'Craig Loewen'
-      git config --global user.email 'crloewen@microsoft.com'
+    - run: git config --global user.name 'Craig Loewen'
+    - run: git config --global user.email 'crloewen@microsoft.com'
     - run: ./deploy.sh
