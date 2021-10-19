@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Credits
+
+This site was created with this project template: https://bootstrapthemes.co/item/iamx-bootstrap-html-resume-template/

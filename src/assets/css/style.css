@@ -629,7 +629,7 @@ SOCIAL ICON
 /* === Video Section === */
 
 .video-section {
-    background: url(../images/video-bg.jpg) no-repeat center center;
+    background: url(../images/video-bg.png) no-repeat center center;
     background-size: cover;
     position: relative;
     min-height: 500px;
@@ -1804,7 +1804,7 @@ Icon for all respective meta
 }
 
 .video-introducing{
-    background: url(../images/video-bg.jpg) no-repeat center center;
+    background: url(../images/video-bg.png) no-repeat center center;
     -webkit-background-size: cover;
     background-size: cover;
     min-height: 390px;

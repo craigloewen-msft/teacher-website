@@ -15,13 +15,11 @@
       data-stellar-background-ratio="0.2"
     >
       <div class="intro">
-        <div class="intro-sub">I am X</div>
-        <h1>Creative <span>Designer</span></h1>
+        <div class="intro-sub">한극인 선생님</div>
+        <h1>Tom <span>Lee</span></h1>
         <p>
-          I am a fully professional freelance creative User Interface Designer
-          &amp; Developer<br />
-          Involving with latest web designing and technologies is a great <br />
-          feel free to contact creative.
+          I am a Korean Tutor who can help you <br />
+          bring out the best of your Korean skills!
         </p>
 
         <div class="social-icons">
@@ -80,7 +78,6 @@
               <li><a href="#resume">Resume</a></li>
               <li><a href="#skills">Skills</a></li>
               <li><a href="#works">Works</a></li>
-              <li><a href="#blog">Blog</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
           </div>
@@ -179,7 +176,7 @@
           <div class="video-intro">
             <a
               class="popup-video"
-              href="https://www.youtube.com/watch?v=LGOjcu0HRec"
+              href="https://www.youtube.com/watch?v=0obBdrfUMzU"
             >
               <i class="fa fa-play"></i>
             </a>
@@ -825,190 +822,6 @@
     </section>
     <!-- End Facts Section -->
 
-    <!-- Blog Section -->
-    <section id="blog" class="latest-blog-section section-padding">
-      <div class="container">
-        <h2 class="section-title wow fadeInUp">Latest Post</h2>
-
-        <div class="row">
-          <div class="col-sm-4">
-            <article class="blog-post-wrapper">
-              <div class="figure">
-                <div class="post-thumbnail">
-                  <a href="#"
-                    ><img
-                      src="assets/images/blog/01.jpg"
-                      class="img-responsive"
-                      alt=""
-                  /></a>
-                </div>
-                <i class="fa fa-file-photo-o"></i>
-              </div>
-              <!-- /.figure -->
-              <header class="entry-header">
-                <div class="post-meta">
-                  <span class="the-category">
-                    <a href="#">Print Design,</a> <a href="#">Photoshop</a>
-                  </span>
-                </div>
-                <h2 class="entry-title">
-                  <a href="#" rel=""
-                    >Common fonts used for newspaper template design</a
-                  >
-                </h2>
-                <hr />
-                <div class="entry-meta">
-                  <ul class="list-inline">
-                    <li>
-                      <span class="the-author">
-                        <a href="#">Admin</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-time">
-                        <a href="#">06 Jan 2015</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-share">
-                        <a href="#" title="share">30</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-comments">
-                        <a href="#" title="">05</a>
-                      </span>
-                    </li>
-                  </ul>
-                </div>
-                <!-- .entry-meta -->
-              </header>
-              <!-- .entry-header -->
-            </article>
-          </div>
-          <!-- /.col-sm-4 -->
-          <div class="col-sm-4">
-            <article class="blog-post-wrapper">
-              <div class="figure">
-                <div class="post-thumbnail">
-                  <a href="#"
-                    ><img
-                      src="assets/images/blog/02.jpg"
-                      class="img-responsive"
-                      alt=""
-                  /></a>
-                </div>
-                <i class="fa fa-file-video-o"></i>
-              </div>
-              <!-- /.figure -->
-              <header class="entry-header">
-                <div class="post-meta">
-                  <span class="the-category">
-                    <a href="#">Print Design,</a> <a href="#">Photoshop</a>
-                  </span>
-                </div>
-                <h2 class="entry-title">
-                  <a href="#" rel=""
-                    >What is the style of font called that is typically</a
-                  >
-                </h2>
-                <hr />
-                <div class="entry-meta">
-                  <ul class="list-inline">
-                    <li>
-                      <span class="the-author">
-                        <a href="#">Admin</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-time">
-                        <a href="#">06 Jan 2015</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-share">
-                        <a href="#" title="share">30</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-comments">
-                        <a href="#" title="">05</a>
-                      </span>
-                    </li>
-                  </ul>
-                </div>
-                <!-- .entry-meta -->
-              </header>
-              <!-- .entry-header -->
-            </article>
-          </div>
-          <!-- /.col-sm-4 -->
-          <div class="col-sm-4">
-            <article class="blog-post-wrapper">
-              <div class="figure">
-                <div class="post-thumbnail">
-                  <a href="#"
-                    ><img
-                      src="assets/images/blog/03.jpg"
-                      class="img-responsive"
-                      alt=""
-                  /></a>
-                </div>
-                <i class="fa fa-quote-left"></i>
-              </div>
-              <!-- /.figure -->
-              <header class="entry-header">
-                <div class="post-meta">
-                  <span class="the-category">
-                    <a href="#">Print Design,</a> <a href="#">Photoshop</a>
-                  </span>
-                </div>
-                <h2 class="entry-title">
-                  <a href="#" rel=""
-                    >How to create a print ready brochure using photoshop</a
-                  >
-                </h2>
-                <hr />
-                <div class="entry-meta">
-                  <ul class="list-inline">
-                    <li>
-                      <span class="the-author">
-                        <a href="#">Admin</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-time">
-                        <a href="#">06 Jan 2015</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-share">
-                        <a href="#" title="share">30</a>
-                      </span>
-                    </li>
-                    <li>
-                      <span class="the-comments">
-                        <a href="#" title="">05</a>
-                      </span>
-                    </li>
-                  </ul>
-                </div>
-                <!-- .entry-meta -->
-              </header>
-              <!-- .entry-header -->
-            </article>
-          </div>
-          <!-- /.col-md-4 -->
-        </div>
-        <!-- /.row -->
-        <div class="blog-more text-center">
-          <a href="#" class="btn btn-primary">View More</a>
-        </div>
-      </div>
-      <!-- /.container -->
-    </section>
-    <!-- End Blog Section -->
-
     <!-- Hire Section -->
     <section
       class="hire-section text-center"
@@ -1037,99 +850,7 @@
       <div class="container">
         <h2 class="section-title wow fadeInUp">Get in touch</h2>
 
-        <div class="row">
-          <div class="col-md-6">
-            <div class="contact-form">
-              <strong>Send me a message</strong>
-              <form
-                name="contact-form"
-                id="contactForm"
-                action="sendemail.php"
-                method="POST"
-              >
-                <div class="form-group">
-                  <label for="name">Name</label>
-                  <input
-                    type="text"
-                    name="name"
-                    class="form-control"
-                    id="name"
-                    required=""
-                  />
-                </div>
-
-                <div class="form-group">
-                  <label for="email">Email</label>
-                  <input
-                    type="email"
-                    name="email"
-                    class="form-control"
-                    id="email"
-                    required=""
-                  />
-                </div>
-
-                <div class="form-group">
-                  <label for="subject">Subject</label>
-                  <input
-                    type="text"
-                    name="subject"
-                    class="form-control"
-                    id="subject"
-                  />
-                </div>
-
-                <div class="form-group">
-                  <label for="message">Message</label>
-                  <textarea
-                    name="message"
-                    class="form-control"
-                    id="message"
-                    rows="5"
-                    required
-                  ></textarea>
-                </div>
-
-                <button type="submit" name="submit" class="btn btn-primary">
-                  Send Message
-                </button>
-              </form>
-            </div>
-            <!-- /.contact-form -->
-          </div>
-          <!-- /.col-md-6 -->
-
-          <div class="col-md-6">
-            <div class="row center-xs">
-              <div class="col-sm-6">
-                <i class="fa fa-map-marker"></i>
-                <address>
-                  <strong>Address/Street</strong>
-                  239/2 Awesome Street,<br />
-                  Boston, USA<br />
-                </address>
-              </div>
-
-              <div class="col-sm-6">
-                <i class="fa fa-mobile"></i>
-                <div class="contact-number">
-                  <strong>Phone Number</strong>
-                  (001) 0123 111222<br />
-                  (001) 0123 333444
-                </div>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="col-sm-12">
-                <div class="location-map">
-                  <div id="mapCanvas" class="map-canvas"></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- /.row -->
+        <h3>TODO: Add in contact links here, mail, facebook, etc.</h3>
       </div>
       <!-- /.container -->
     </section>
@@ -1142,7 +863,12 @@
           <div class="col-md-12">
             <div class="copyright text-center">
               Shared by <i class="fa fa-love"></i
-              ><a href="https://bootstrapthemes.co">BootstrapThemes</a>
+              ><a href="https://bootstrapthemes.co">BootstrapThemes</a> powered
+              by
+              <a
+                href="https://bootstrapthemes.co/item/iamx-bootstrap-html-resume-template/"
+                >iamx template</a
+              >
             </div>
           </div>
         </div>
