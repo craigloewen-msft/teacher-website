@@ -90,7 +90,7 @@
     <!-- About Section -->
     <section id="about" class="about-section section-padding">
       <div class="container">
-        <h2 class="section-title wow fadeInUp">About Me</h2>
+        <h2 class="section-title wow fadeInUp">Test 123</h2>
 
         <div class="row">
           <div class="col-md-4 col-md-push-8">
