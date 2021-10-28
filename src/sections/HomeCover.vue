@@ -16,19 +16,19 @@
       <div class="social-icons">
         <ul class="list-inline">
           <li>
-            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.instagram.com/koreantutor_tom/"
+              ><i class="fa fa-instagram"></i
+            ></a>
           </li>
           <li>
-            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.italki.com/teacher/8170112/korean"
+              ><i class="fa fa-globe"></i
+            ></a>
           </li>
           <li>
-            <a href="#"><i class="fa fa-behance"></i></a>
-          </li>
-          <li>
-            <a href="#"><i class="fa fa-dribbble"></i></a>
-          </li>
-          <li>
-            <a href="#"><i class="fa fa-pinterest"></i></a>
+            <a href="mailto:testemail@gmail.com">
+              <i class="fa fa-envelope"></i
+            ></a>
           </li>
         </ul>
       </div>

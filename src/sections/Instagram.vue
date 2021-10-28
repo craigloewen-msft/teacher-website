@@ -1,27 +1,33 @@
 <template>
-  <!-- Video Section -->
-  <section id="instagram">
-    <div class="container text-center">
+  <section id="instagram" class="section-padding">
+    <div class="container align-center">
+      <h2 class="section-title wow fadeInUp">Follow me on Instagram</h2>
       <div class="row">
         <div class="col-md-4">
-          <InstagramEmbed instagramURL="https://www.instagram.com/p/Bs_yHwHBjKo/" />
+          <InstagramEmbed
+            instagramURL="https://www.instagram.com/p/CVkxvwRJHfj/"
+          />
         </div>
         <div class="col-md-4">
-          <InstagramEmbed instagramURL="https://www.instagram.com/p/CVdSxFjAqsB/" />
+          <InstagramEmbed
+            instagramURL="https://www.instagram.com/p/CVfDoSUB6Oz/"
+          />
         </div>
         <div class="col-md-4">
-          <InstagramEmbed instagramURL="https://www.instagram.com/p/CViqsLEhhn5/" />
+          <InstagramEmbed
+            instagramURL="https://www.instagram.com/p/CVeWHcFhjEn/"
+          />
         </div>
       </div>
     </div>
   </section>
-  <!-- /.Video Section -->
 </template>
 
 <script>
+import InstagramEmbed from "../components/InstagramEmbed.vue";
 
 export default {
-  name: "Video",
-  components: {},
+  name: "Instagram",
+  components: { InstagramEmbed },
 };
 </script>

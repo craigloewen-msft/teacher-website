@@ -22,11 +22,11 @@
         <div class="collapse navbar-collapse" id="custom-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#resume">Resume</a></li>
-            <li><a href="#skills">Skills</a></li>
-            <li><a href="#works">Works</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#aboutme">About Me</a></li>
+            <li><a href="#instagram">Instagram</a></li>
+            <li><a href="#italki">Italki</a></li>
+            <li><a href="#contactme">Contact Me</a></li>
+            <li><a href="#notice">Notices</a></li>
           </ul>
         </div>
       </div>
