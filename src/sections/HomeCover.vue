@@ -6,7 +6,7 @@
     data-stellar-background-ratio="0.2"
   >
     <div class="intro">
-      <div class="intro-sub">한극인 선생님</div>
+      <div class="intro-sub">한극어 선생님</div>
       <h1>Tom <span>Lee</span></h1>
       <p>
         I am a Korean Tutor who can help you <br />
