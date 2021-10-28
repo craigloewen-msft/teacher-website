@@ -1,194 +1,23 @@
 <template>
   <div id="app">
     <!-- Preloader -->
-    <!-- <div id="tt-preloader">
-      <div id="pre-status">
-        <div class="preload-placeholder"></div>
-      </div>
-    </div> -->
+    <!-- <PreLoader /> -->
 
     <!-- Home Section -->
-    <section
-      id="home"
-      class="tt-fullHeight"
-      data-stellar-vertical-offset="50"
-      data-stellar-background-ratio="0.2"
-    >
-      <div class="intro">
-        <div class="intro-sub">한극인 선생님</div>
-        <h1>Tom <span>Lee</span></h1>
-        <p>
-          I am a Korean Tutor who can help you <br />
-          bring out the best of your Korean skills!
-        </p>
-
-        <div class="social-icons">
-          <ul class="list-inline">
-            <li>
-              <a href="#"><i class="fa fa-facebook"></i></a>
-            </li>
-            <li>
-              <a href="#"><i class="fa fa-twitter"></i></a>
-            </li>
-            <li>
-              <a href="#"><i class="fa fa-behance"></i></a>
-            </li>
-            <li>
-              <a href="#"><i class="fa fa-dribbble"></i></a>
-            </li>
-            <li>
-              <a href="#"><i class="fa fa-pinterest"></i></a>
-            </li>
-          </ul>
-        </div>
-        <!-- /.social-icons -->
-      </div>
-
-      <div class="mouse-icon">
-        <div class="wheel"></div>
-      </div>
-    </section>
+    <HomeCover />
     <!-- End Home Section -->
 
     <!-- Navigation -->
-    <header class="header">
-      <nav class="navbar navbar-custom" role="navigation">
-        <div class="container">
-          <div class="navbar-header">
-            <button
-              type="button"
-              class="navbar-toggle"
-              data-toggle="collapse"
-              data-target="#custom-collapse"
-            >
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="index.html"
-              ><img src="assets/images/logo.png" alt=""
-            /></a>
-          </div>
-
-          <div class="collapse navbar-collapse" id="custom-collapse">
-            <ul class="nav navbar-nav navbar-right">
-              <li><a href="#home">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#resume">Resume</a></li>
-              <li><a href="#skills">Skills</a></li>
-              <li><a href="#works">Works</a></li>
-              <li><a href="#contact">Contact</a></li>
-            </ul>
-          </div>
-        </div>
-        <!-- .container -->
-      </nav>
-    </header>
+    <Navigation/>
     <!-- End Navigation -->
 
-    <!-- About Section -->
-    <section id="about" class="about-section section-padding">
-      <div class="container">
-        <h2 class="section-title wow fadeInUp">About Me</h2>
-
-        <div class="row">
-          <div class="col-md-4 col-md-push-8">
-            <div class="biography">
-              <div class="myphoto">
-                <img src="assets/images/myphoto.jpg" alt="" />
-              </div>
-              <ul>
-                <li><strong>Name:</strong> John Doe</li>
-                <li><strong>Date of birth:</strong> 05 Dec 1993</li>
-                <li><strong>Address:</strong> 239/2 Awesome Street, USA</li>
-                <li><strong>Nationality:</strong> American</li>
-                <li><strong>Phone:</strong> (000) 1234 56789</li>
-                <li><strong>Email:</strong> yourmail@iamx.com</li>
-              </ul>
-            </div>
-          </div>
-          <!-- col-md-4 -->
-
-          <div class="col-md-8 col-md-pull-4">
-            <div class="short-info wow fadeInUp">
-              <h3>Objective</h3>
-              <p>
-                An opportunity to work and upgrade oneself, as well as being
-                involved in an organization that believes in gaining a
-                competitive edge and giving back to the community. I'm presently
-                expanding my solid experience in UI / UX design. I focus on
-                using my interpersonal skills to build good user experience and
-                create a strong interest in my employers. I hope to develop
-                skills in motion design and my knowledge of the Web, and become
-                an honest asset to the business. As an individual, I'm
-                self-confident you’ll find me creative, funny and naturally
-                passionate. I’m a forward thinker, which others may find
-                inspiring when working as a team.
-              </p>
-            </div>
-
-            <div class="short-info wow fadeInUp">
-              <h3>What I Do ?</h3>
-              <p>
-                I have been working as a web interface designer since. I have a
-                love of clean, elegant styling, and I have lots of experience in
-                the production of CSS3 and HTML5 for modern websites. I loving
-                creating awesome as per my clients’ need. I think user
-                experience when I try to craft something for my clients. Making
-                a design awesome.
-              </p>
-
-              <ul class="list-check">
-                <li>User Experience Design</li>
-                <li>Interface Design</li>
-                <li>Product Design</li>
-                <li>Branding Design</li>
-                <li>Digital Painting</li>
-                <li>Video Editing</li>
-              </ul>
-            </div>
-
-            <div class="my-signature">
-              <img src="assets/images/sign.png" alt="" />
-            </div>
-
-            <div class="download-button">
-              <a class="btn btn-info btn-lg" href="#contact"
-                ><i class="fa fa-paper-plane"></i>Send me message</a
-              >
-              <a class="btn btn-primary btn-lg" href="#"
-                ><i class="fa fa-download"></i>download my cv</a
-              >
-            </div>
-          </div>
-        </div>
-        <!-- /.row -->
-      </div>
-      <!-- /.container -->
-    </section>
-    <!-- End About Section -->
-
     <!-- Video Section -->
-    <section id="video" class="video-section">
-      <div class="tf-bg-overlay">
-        <div class="container">
-          <div class="video-intro">
-            <a
-              class="popup-video"
-              href="https://www.youtube.com/watch?v=0obBdrfUMzU"
-            >
-              <i class="fa fa-play"></i>
-            </a>
-            <h2>Video Introducing</h2>
-          </div>
-        </div>
-
-        <!--/.container-->
-      </div>
-      <!--/.overlay-->
-    </section>
+    <Video/> 
     <!-- /.Video Section -->
+
+    <!-- Instagram Section -->
+    <Instagram/>
+    <!-- /.Instagram Section -->
 
     <!-- Resume Section -->
     <section id="resume" class="resume-section section-padding">
@@ -884,9 +713,21 @@
 </template>
 
 <script>
+// import PreLoader from "./sections/PreLoader.vue";
+import HomeCover from "./sections/HomeCover.vue";
+import Navigation from "./sections/Navigation.vue";
+import Video from "./sections/Video.vue";
+import Instagram from "./sections/Instagram.vue";
+
 export default {
   name: "App",
-  components: {},
+  components: {
+    // PreLoader,
+    HomeCover,
+    Navigation,
+    Video,
+    Instagram,
+  },
 };
 </script>
 
