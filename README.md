@@ -1,5 +1,7 @@
 # teacher-website
 
+View this site live at: https://craigloewen-msft.github.io/teacher-website/
+
 ## Project setup
 ```
 npm install
