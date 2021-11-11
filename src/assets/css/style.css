@@ -325,7 +325,7 @@ ul.list-check li::before {
 
 
 #home {
-	background: url(../images/home2.jpg) no-repeat center center;
+	background: url(../images/homeimg.jpg) no-repeat center center;
 	-webkit-background-attachment: fixed;
     background-attachment: fixed;
 	background-color: #222;
@@ -630,6 +630,7 @@ SOCIAL ICON
 
 .video-section {
     background: url(../images/video-bg.png) no-repeat center center;
+    background-position-x: 75%;
     background-size: cover;
     position: relative;
     min-height: 500px;
