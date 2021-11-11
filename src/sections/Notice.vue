@@ -28,7 +28,7 @@ export default {
 <style>
 
 .notice-area {
-    margin: 0 120px 0;
+    margin: 0 20px 0;
 }
 
 </style>

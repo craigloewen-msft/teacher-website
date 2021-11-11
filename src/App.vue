@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <!-- <PreLoader /> -->
+    <PreLoader />
     <HomeCover />
     <Navigation/>
     <AboutMe/> 
