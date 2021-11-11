@@ -1,7 +1,7 @@
 <template>
   <section id="instagram" class="section-padding">
     <div class="container align-center">
-      <h2 class="section-title wow fadeInUp">Follow me on Instagram</h2>
+      <h3 class="section-title wow fadeInUp">Follow me on Instagram</h3>
       <div class="row">
         <div class="col-md-4">
           <InstagramEmbed
