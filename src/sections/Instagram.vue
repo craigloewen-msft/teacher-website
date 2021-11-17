@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-md-4">
           <InstagramEmbed
-            instagramURL="https://www.instagram.com/p/CVkxvwRJHfj/"
+            instagramURL="https://www.instagram.com/reel/CVwr-zahlFW/?utm_medium=copy_link/"
           />
         </div>
         <div class="col-md-4">
