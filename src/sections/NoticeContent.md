@@ -1,4 +1,4 @@
-# About Me
+### About Me
 Speak the Real Korean With Friendly Tom!
 Hello, everyone!🖐 
 My name is Tom, and my Korean name is Hyung seok Lee. 
@@ -11,7 +11,7 @@ Shall we study Korean together?
 
 
 
-# Me as a Teacher
+### Me as a Teacher
 😎😎😎Experienced Tom knows How to Make You Speak Korean Like a Real Korean🗣🗣🗣
 🌟Currently Preparing to be a Professional Korean Tutor🌟
 - I have 3 years of tutoring experience at high schools and middle schools.
@@ -22,7 +22,7 @@ Shall we study Korean together?
 
 
 
-# My Lessons & Teaching Style
+### My Lessons & Teaching Style
 😆We Have Fun 👉👉👉 Improvement Comes🤩
 Not in textbooks, I will teach you real Korean expressions that are used by real Korean! 
 I will correct you with grammar, vocab, pronunciation while we have fun talking about everything. 
@@ -31,7 +31,7 @@ I hope to see you soon!
 
 
 
-# My Lessons & Teaching Style
+### My Lessons & Teaching Style
 Quizzes
 Articles and news
 Video files
