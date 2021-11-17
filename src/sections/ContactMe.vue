@@ -22,8 +22,8 @@
           <li>
             <b
               ><a
-                href="mailto:testemail@gmail.com"
-                >Email - testemail@gmail.com <i class="fa fa-envelope"></i></a
+                href="mailto:getontoml@gmail.com"
+                >Email - getontoml@gmail.com <i class="fa fa-envelope"></i></a
             ></b>
           </li>
         </ul>
