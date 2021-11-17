@@ -1,24 +1,44 @@
-안녕하세요. 반갑습니다. 
-제 웹사이트에 오신 것을 환영합니다!
-## How is this content rendered?
+## About Me
+Speak the Real Korean With Friendly Tom!
+Hello, everyone!🖐 
+My name is Tom, and my Korean name is Hyung seok Lee. 
+I am a native Korean living in Seoul. 
 
-It is rendered using a tool called Markdown! You can play around with it in an editor like this one:
+Do you want to learn to speak Korean quickly? 
+The best way to learn a new language quickly, you need someone to have fun talking to! 
+I can be your best Korean tutor and also a best friend. 
+Shall we study Korean together?
 
-https://dillinger.io/
 
-This is the easiest way for you to get the formatting you like without having to edit code :)
+## Me as a Teacher
+😎😎😎Experienced Tom knows How to Make You Speak Korean Like a Real Korean🗣🗣🗣
+🌟Currently Preparing to be a Professional Korean Tutor🌟
+- I have 3 years of tutoring experience at high schools and middle schools.
+- I have experienced working as a football sub-coach in international school for 1 year.  
+- I lived in Surrey, UK for 3 years, and in San Francisco, US for 1 year. 
+  I like to be friend with many people from all around the world.
+- I'm learning English, Japanese, Chinese for many years so I know what is important when learning new languages.
 
-I would recommend using the website above to write out what you like, and then just paste the changes into this file for it to show up on the website. 
 
-You can even do things like tables pretty easily!
+## My Lessons & Teaching Style
+😆We Have Fun 👉👉👉 Improvement Comes🤩
+Not in textbooks, I will teach you real Korean expressions that are used by real Korean! 
+I will correct you with grammar, vocab, pronunciation while we have fun talking about everything. 
+I have various hobbies such as singing, listening to music, watching movies, playing sports, cooking, eating and so on. I guess we will have many things in common.
+I hope to see you soon!
 
-| Table | Column2 |
-| ------ | ------ |
-| Availability | Test link: [Link to google](www.google.com) |
-| Row 2 | Link to: [bing](www.bing.com) |
 
-## How do I edit it?
+## My Lessons & Teaching Style
+Quizzes
+Articles and news
+Video files
+Audio files
+Text Documents
+Image files
+PDF file
+Flashcards
+Test templates and examples
+Graphs and charts
+Presentation slides/PPT
+Homework Assignments
 
-Just go to [this file](https://github.com/craigloewen-msft/teacher-website/blob/main/src/sections/NoticeContent.md) on the Github repository: https://github.com/craigloewen-msft/teacher-website/blob/main/src/sections/NoticeContent.md
-
-and edit the file. You can see how it's formatted, and use a tool like this website https://dillinger.io/ to make sure you get the formatting right! (It should be pretty easy!) 
