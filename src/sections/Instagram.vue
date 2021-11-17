@@ -10,12 +10,12 @@
         </div>
         <div class="col-md-4">
           <InstagramEmbed
-            instagramURL="https://www.instagram.com/p/CVfDoSUB6Oz/"
+            instagramURL="https://www.instagram.com/reel/CWKaVbNBYZ1/?utm_medium=copy_link/"
           />
         </div>
         <div class="col-md-4">
           <InstagramEmbed
-            instagramURL="https://www.instagram.com/p/CVeWHcFhjEn/"
+            instagramURL="https://www.instagram.com/reel/CWSH9NxBkg9/?utm_medium=copy_link/"
           />
         </div>
       </div>
