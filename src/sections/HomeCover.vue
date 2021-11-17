@@ -4,7 +4,7 @@
     class="tt-fullHeight"
   >
     <div class="intro">
-      <div class="intro-sub">한국어 선생님</div>
+      <div class="intro-sub">한국어 선생님 </div>
       <h1>Tom <span>Lee</span></h1>
       <p>
         I am a Korean Tutor who can help you <br />
