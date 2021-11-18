@@ -7,9 +7,7 @@ I am a native Korean living in Seoul.
 Do you want to learn to speak Korean quickly? 
 The best way to learn a new language quickly, you need someone to have fun talking to! 
 I can be your best Korean tutor and also a best friend. 
-Shall we study Korean together?
-
-
+Shall we study Korean together? <br/> <br/>
 
 ### Me as a Teacher
 😎😎😎Experienced Tom knows How to Make You Speak Korean Like a Real Korean🗣🗣🗣
