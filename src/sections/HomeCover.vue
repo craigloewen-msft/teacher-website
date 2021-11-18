@@ -24,7 +24,7 @@
             ></a>
           </li>
           <li>
-            <a href="mailto:testemail@gmail.com">
+            <a href="getontoml@gmail.com">
               <i class="fa fa-envelope"></i
             ></a>
           </li>
