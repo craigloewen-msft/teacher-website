@@ -31,4 +31,8 @@ export default {
     margin: 0 20px 0;
 }
 
+.notice-area h3 {
+  margin-top: 40px;
+}
+
 </style>
